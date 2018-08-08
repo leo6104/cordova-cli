@@ -31,7 +31,7 @@
   ],
   "dependencies": {
     "configstore": "2.1.0",
-    "cordova-common": "^2.2.0",
+    "cordova-common": "git+https://github.com/leo6104/cordova-common.git",
     "cordova-lib": "8.0.0",
     "editor": "1.0.0",
     "insight": "0.8.4",
